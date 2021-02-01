@@ -1,1 +1,3 @@
 # book-worm
+
+updated readme
